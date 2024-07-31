@@ -1,4 +1,4 @@
-package firstnondublicateelement;
+package setinterface.firstnondublicateelement;
 
 
 import java.util.LinkedHashSet;

@@ -1,4 +1,4 @@
-package sorteduniqueelements;
+package setinterface.sorteduniqueelements;
 
 import java.util.List;
 import java.util.TreeSet;

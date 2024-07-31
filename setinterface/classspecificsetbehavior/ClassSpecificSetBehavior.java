@@ -1,4 +1,4 @@
-package classspecificsetbehavior;
+package setinterface.classspecificsetbehavior;
 
 import java.util.*;
 

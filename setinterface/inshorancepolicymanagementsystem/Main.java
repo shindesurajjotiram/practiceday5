@@ -1,4 +1,4 @@
-package inshorancepolicymanagementsystem;
+package setinterface.inshorancepolicymanagementsystem;
 
 import java.time.LocalDate;
 
